@@ -41,29 +41,72 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 ## Part A - Survey Design: 
 
 The number of your chosen topic: `#`
-
+I chose Scenario 1 - HR in a large tech company.
 Describe the purpose of your survey:
 ```
 write your answer here...
+The purpose of this survey is to understand the factors that are contributing to the high turnover rate among our entry- and lower-level employees across all our departmnets. The results from this survey will help us to identify areas that we need to improve to increase employee satisfaction, workplace culture, and the overall retention strategies of the company.
+
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
 write your answer here...
+The target population includes all current and former entry- and lower-level employees in various departments who have worked in the company for the past 2 years.
+The samppling frame is the HR's employee database which maintains the list of current and recently resigned employees, their contact details and job titles.
+The sampling and the observational unit are the same and are the individual employees (both current and past) in entry and lower level positions which I will be collecting the data from and measuring.
+
 ```
 
-Your 5-10 question survey:
+Your 5-10 question survey: 
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+Note : These survey questions will be designed as anonymous so that employees can freely share their experiences. 
+
+1. How long have you worked or did you work at the company?
+   Less than 6 months
+   6 to 12 months
+   1 to 2 years
+   More than 2 years
+
+2. Which department do/did you work in? (this will be followed by a drop-down list of all the company's department)
+
+3. How satisfied are you/were you with your overall experience at the company?
+    Very dissatisfied
+    Dissatisfied
+    Neutral
+    Satisfied
+    Very satisfied
+
+4. Please rate your agreement with the following statements: (1 = Strongly Disagree, 5 = Strongly Agree)
+    a. My manager provided clear expectations for my role.
+    b. I had opportunities to grow professionally.
+    c. I was fairly compensated for my work.
+    d. I could maintain a healthy work-life balance.
+    e. I felt part of a supportive team.    
+
+5. Do/did you feel comfortable discussing work-related issues with your manager or supervisor?
+    Yes
+    No
+    Not sure
+
+6. What was the main reason you left (or would consider leaving) the company? (Choose as many as that applies)
+
+    a. Limited career advancement
+    b. Inadequate salary or benefits
+    c. Poor relationship with manager
+    d. Stress or burnout
+    e. Unclear expectations
+    f. Relocation or personal reasons
+    g. Other (please specify): _______
+
+7. What one change would most improve your experience as an employee?
+
+
+8. Which improvement would most likely increase your satisfaction and decision to remain in the company
+
+
+9. Is there anything else you would like to share about your experience at the company?
+
 ```
 
 ## Part B - Survey Evaluation:
@@ -72,6 +115,23 @@ Identify and describe survey features:
 
 ```
 write your answer here
+1. Sample type = Stratified probability sampling . Stratification is done at the province level with the information collected from one randomly selected household across the province. 
+2. Sample size = A total of 15,390 individuals aged 15yrs and older participated in the survey. 
+3. Target population = According to the information on the website, the target population comprised individuals aged 15 years and older residing in private households within the ten Canadian provinces. The survey excluded full-time residents of institutions (e.g., prisons, long-term care facilities) and residents of the three territories (Yukon, Northwest Territories, and Nunavut).
+4. Sampling frame = The sampling frame was constructed using a combination of landline and cellular telephone numbers sourced from the Census and various administrative databases, integrated with Statistics Canada's dwelling frame. This dual-frame approach aimed to improve coverage, especially considering the increasing prevalence of cellphone-only households.
+5. Survey mode(s) = There were two primary modes: Computer-Assisted Telephone Interviewing (CATI) and Electronic Questionnaire (EQ). 
+6. Timeline = The survey was administered between September 4 and December 28, 2018.
+7. Response rate = The overall response rate for the survey was 41.9%. 
+8. Weights = Sampling weights whoch is person weight (WGHT_PER) were applied to each survey respondant to ensure that the survey result accurately represents the broader canadian population. Estimates based on the survey data were also adjusted through weighting.  
+9. Data processing = After collection, the data underwent several processing which includes editing, coding and verification. 
+10. Cleaning, imputation, etc = Imputation techniques were implemented qnd were carroed out in nine steps e.g income data, which often has high non-response rates, was supplemented through linkage to administrative tax records (T1, T1FF, or T4) for respondents who consented. For those who did not consent, imputation methods were used to estimate income values.
+11. Sources of error = Potential sources of error in the survey includes sampling and non-sampling errors (coverage error, non-response error and measurement error).  
+12. Limitations, known biases, etc = underrepresentation of certain groups, recall bias and social desirability bias.
+13. Link to documentation and any additional sources used; https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&SDDS=4430, https://www23.statcan.gc.ca/imdb/p3Instr.pl?Function=assembleInstr&a=1&&lang=en&Item_Id=1183690,  https://www23.statcan.gc.ca/imdb/p3Instr.pl?Function=getInstrumentList&Item_Id=1183690&UL=1V&
+
+
+
+
 ```
 
 ## Rubric
